@@ -1,2 +1,2 @@
 # AMINA-S-INNER-WORLD
-LABS
+LABSONE-подготовка данных
