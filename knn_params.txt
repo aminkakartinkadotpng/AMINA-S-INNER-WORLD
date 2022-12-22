@@ -1,0 +1,1 @@
+{'knn__algorithm': 'auto', 'knn__leaf_size': 5, 'knn__n_neighbors': 15, 'knn__p': 2, 'knn__weights': 'distance'}

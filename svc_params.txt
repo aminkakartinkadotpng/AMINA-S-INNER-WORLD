@@ -1,0 +1,1 @@
+{'svcm__C': 1, 'svcm__degree': 1, 'svcm__gamma': 'scale', 'svcm__kernel': 'rbf'}

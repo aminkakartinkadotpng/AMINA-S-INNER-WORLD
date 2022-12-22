@@ -1,0 +1,1 @@
+{'LogisticRegression__C': 10, 'LogisticRegression__penalty': 'l1', 'LogisticRegression__solver': 'saga'}

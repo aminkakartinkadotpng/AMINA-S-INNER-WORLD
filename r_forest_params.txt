@@ -1,0 +1,1 @@
+{'rfr__ccp_alpha': 0.0, 'rfr__criterion': 'entropy', 'rfr__max_features': 'sqrt', 'rfr__min_impurity_decrease': 0.0, 'rfr__min_samples_leaf': 2, 'rfr__min_samples_split': 2, 'rfr__min_weight_fraction_leaf': 0.0, 'rfr__n_estimators': 60}
